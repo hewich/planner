@@ -1,0 +1,44 @@
+Elective Computer Science Courses
+
+CS 49C.................Programming in C
+CS 49J..............Programming in Java
+CS 108...................Introduction to Game Studies
+CS 116A....................Intro to Computer Graphics
+CS 116B..................Computer Graphics Algorithms
+CS 120A......Electronics, Data Acquisition & Analysis
+CS 122.................Advanced Programming with Perl
+CS 123A..............................Bioinformatics I
+CS 123B.............................Bioinformatics II
+CS 130............................Windows Programming
+CS 134.............Computer Game Design & Programming
+Math 142.......................Intro to Combinatorics
+CS 143C...........Num Analysis & Scientific Computing
+CS 143M...........Num Analysis & Scientific Computing
+CS 144.......................Advanced C++ Programming
+CS 153....................Concepts of Compiler Design
+CS 155...........Intro to Design & Anal of Algorithms
+CS 156...............Intro to Artificial Intelligence
+CS 157A..........Intro to Database Management Systems
+CS 157B................Database Management Systems II
+CS 157C........................NoSQL Database Systems
+CS 158A.............................Computer Networks
+CS 158B...................Computer Network Management
+CS 159...................Intro to Parallel Processing
+CS 161...............................Software Project
+Math 161A........................Applied Statistics I
+Math 162................Statistics for Bioinformatics
+CS 166...........................Information Security
+CS 167B..........DB2 Application Development for z/OS
+CS 167C...............DB2 Query Optimization for z/OS
+Math 171...........Foundations of Math & Computer Sci
+CS 172A....Fundamentals of Unix System Administration
+CS 174....................Server-Side Web Programming
+CS 175......................Mobile Device Development
+Math 177.............Linear & Non-Linear Optimization
+Math 178........................Mathematical Modeling
+Math 179........................Intro to Graph Theory
+CS 85C, 185C
+CS 180, Math 203............(requires prior approval)
+CS 180H.................Individual Studies for Honors
+CS 190.............................Internship Project
+CS 190I............................Internship Project
